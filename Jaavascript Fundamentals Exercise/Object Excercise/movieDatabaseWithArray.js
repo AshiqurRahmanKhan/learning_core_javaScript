@@ -80,3 +80,6 @@ const movieCatagory =  movieServer[9].catagory;
 
  const comment = movieName + " is a awesome film. " + "The movie Id is "+ " " + movieId +  " ." +
  				"This is a  type of "+ " " + movieCatagory + " "  + "The movie rating is" + " " +  movieRating
+
+
+console.log(comment);
